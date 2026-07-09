@@ -1,0 +1,9 @@
+{
+  "appId": "com.new10sapp.app",
+  "appName": "new10sapp",
+  "webDir": "www",
+  "server": {
+    "url": "https://staff.new10s.in/",
+    "cleartext": false
+  }
+}
